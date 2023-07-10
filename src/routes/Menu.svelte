@@ -21,6 +21,7 @@
 </body>
 
 <style>
+	/* Criar css para cada arquivo .svelte */
  @import url('https://fonts.cdnfonts.com/css/angel-club');
 	
 	body {
