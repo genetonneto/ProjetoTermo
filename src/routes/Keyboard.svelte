@@ -121,6 +121,7 @@ const KeyPress = (key = "") => {
 </div>
 
 <style>
+    
     .row {
         display: flex;
         align-items: center;

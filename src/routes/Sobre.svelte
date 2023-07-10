@@ -12,7 +12,7 @@
  </header>
 <main>
     <p>
-      Esse projeto foi desenvolvido pelo os alunos do 1º Período do Curso de TSI <br>
+      Esse projeto foi desenvolvido pelo os alunos do 1º Período do Curso de TSI - IFPE Campus Igarassu<br>
 	Na disciplina de Programação Imperativa do Professor Allan Diego Silva Lima, onde desenvolvemos o Jogo Termo<br> 
 	</p>
 	    <h2>Alunos</h2>
