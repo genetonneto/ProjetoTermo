@@ -28,14 +28,18 @@
     <h2>Monitores</h2>
 
     <li><p>Geneteton Neto</p><a href="https://github.com/genetonneto" target="_blank">Github</a></li>
-    <li><p>Luiz</p><a href="https://github.com" target="_blank">Github</a></li>
+    <li><p>Luiz Carlos</p><a href="https://github.com/Luizcsrj" target="_blank">Github</a></li>
+
 
 </main>
-    </body>
 
-<footer>
+<footer class="footer">
     <p>&copy; 2023 Jogo Termo. Todos os Direito Reservados</p>
 </footer>
+
+    </body>
+
+
 <style>
      @import url('https://fonts.cdnfonts.com/css/angel-club');
 	
@@ -100,10 +104,14 @@ a:hover{
     color: #173B47;
 }
 
-footer {
+.footer {
+    font-size: 15px;
     font-family: 'Angel Club', sans-serif;
+    display: flex;
+    flex-direction: column;
     text-align: center;
     color: white;  
+    margin-top: 30px;
         
 }
 

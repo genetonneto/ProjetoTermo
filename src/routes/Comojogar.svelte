@@ -68,11 +68,12 @@
      A letra <span class="exemplo2">I</span>  faz parte da palavra mas em outra posição.
     </p>
     
-</main>
+    </main>
+
+    <footer class= "footer">
+        <p>&copy; 2023 Jogo Termo. Todos os Direito Reservados</p>
+    </footer>
 </body>
-<footer>
-    <p>&copy; 2023 Jogo Termo. Todos os Direito Reservados</p>
-</footer>
 <style>
  @import url('https://fonts.cdnfonts.com/css/angel-club');
 
@@ -116,6 +117,16 @@ p{
     font-family: 'Angel Club', sans-serif;
     text-align: center;
     color: #E4FAF8;  
+}
+.footer {
+    font-size: 15px;
+    font-family: 'Angel Club', sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: white;  
+    margin-top: 30px;
+        
 }
 .exemplo {
 	background-color: var(--green);
