@@ -18,7 +18,7 @@
 	    <h2>Alunos</h2>
 
     <ul>
-        <li><p>Jadson andrewns</p><a href="https://github.com/jadsonfe" target="_blank">Github</a></li>
+        <li><p>Jadson andrewns</p><a href="https://github.com/jadsonfe" target="_blank">Github</a></li>  <!-- Editar sobrenome de Jadson -->
         <li><p>Paulo Cabral</p><a href="https://github.com/pauloJ-r" target="_blank">Github</a></li>
         <li><p>Matheus de Oliveira</p><a href="https://github.com" target="_blank">Github</a></li>
         <li><p>Matheus Wenceslau</p><a href="https://github.com/WENCESLAUN" target="_blank">Github</a></li>
