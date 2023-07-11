@@ -29,7 +29,7 @@
     </ul>
 
     <h2>Monitores</h2>
-        <li><p>Geneteton Neto</p><a href="https://github.com/genetonneto" target="_blank">Github</a></li>
+        <li><p>Geneton Neto</p><a href="https://github.com/genetonneto" target="_blank">Github</a></li>
         <li><p>Luiz Carlos</p><a href="https://github.com/Luizcsrj" target="_blank">Github</a></li>
 </main>
 </body>
