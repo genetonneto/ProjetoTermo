@@ -121,6 +121,9 @@ const KeyPress = (key = "") => {
 </div>
 
 <style>
+    .keyboard{
+    display: inline;
+    }
     
     .row {
         display: flex;
