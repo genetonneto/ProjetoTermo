@@ -1,3 +1,7 @@
+
+![ifpe](https://github.com/pauloJ-r/ProjetoTermo/assets/62119732/ffaef033-e7aa-42c2-87fa-ee9571e18d81.)
+
+
 # Projeto de Conclusão - Termo
 
 Este é o projeto de conclusão da disciplina de Programação Imperativa do Professor Allan Diego Silva Lima do IFPE Campus Igarassu, desenvolvido por Jadson Andreys, Paulo Cabral, Matheus de Oliveira e Matheus Wenceslau. O projeto consiste em o jogo termo, implementado utilizando as tecnologias Svelte, HTML5 e CSS3. 
@@ -64,4 +68,5 @@ Esperamos que você se divirta jogando o Termo.
 
 <li>Geneton Neto</li>
 <li>Luiz Carlos</li>
+
 
