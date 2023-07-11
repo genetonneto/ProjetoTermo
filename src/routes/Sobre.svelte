@@ -2,42 +2,42 @@
     import { trocarEstadoDoJogo } from "./Estado.js";
 </script>
 
-    <button class="menu" on:click={() => trocarEstadoDoJogo('menu')} on:keydown={() => {}}>
-    Menu
-    </button>
+<body class = "conteudo">
+<header>
+    <div class="div-header">
+        <h1>Sobre</h1>
+        
+        <button class="menu" on:click={() => trocarEstadoDoJogo('menu')} on:keydown={() => {}}>
+            Menu
+        </button>
+    </div>
+</header>
 
-    <body class = "conteudo">
- <header>
-    <h1>Sobre</h1>
- </header>
 <main>
     <p>
-      Esse projeto foi desenvolvido pelo os alunos do 1º Período do Curso de TSI - IFPE Campus Igarassu<br>
-	Na disciplina de Programação Imperativa do Professor Allan Diego Silva Lima, onde desenvolvemos o Jogo Termo<br> 
+        Esse projeto foi desenvolvido pelo os alunos do 1º Período do Curso de TSI - IFPE Campus Igarassu<br>
+	    Na disciplina de Programação Imperativa do Professor Allan Diego Silva Lima, onde desenvolvemos o Jogo Termo<br> 
 	</p>
-	    <h2>Alunos</h2>
+	
+    <h2>Alunos</h2>
 
     <ul>
         <li><p>Jadson andrewns</p><a href="https://github.com/jadsonfe" target="_blank">Github</a></li>  <!-- Editar sobrenome de Jadson -->
         <li><p>Paulo Cabral</p><a href="https://github.com/pauloJ-r" target="_blank">Github</a></li>
         <li><p>Matheus de Oliveira</p><a href="https://github.com" target="_blank">Github</a></li>
         <li><p>Matheus Wenceslau</p><a href="https://github.com/WENCESLAUN" target="_blank">Github</a></li>
-        <li></li>
     </ul>
 
     <h2>Monitores</h2>
-
-    <li><p>Geneteton Neto</p><a href="https://github.com/genetonneto" target="_blank">Github</a></li>
-    <li><p>Luiz Carlos</p><a href="https://github.com/Luizcsrj" target="_blank">Github</a></li>
-
-
+        <li><p>Geneteton Neto</p><a href="https://github.com/genetonneto" target="_blank">Github</a></li>
+        <li><p>Luiz Carlos</p><a href="https://github.com/Luizcsrj" target="_blank">Github</a></li>
 </main>
 
 <footer class="footer">
     <p>&copy; 2023 Jogo Termo. Todos os Direito Reservados</p>
 </footer>
 
-    </body>
+</body>
 
 
 <style>
@@ -48,6 +48,11 @@ body {
 	padding: 0;
     background-color: #0F1A1D;
 }
+
+.div-header {
+    padding-top: 100vh;
+}
+
 
 .conteudo {
 	font-family: 'Angel Club', sans-serif;
@@ -60,7 +65,6 @@ body {
 	color : #E4FAF8;
 	font-size: 25px;
 }
-    
 
 a {
     font-family: 'Angel Club', sans-serif;
