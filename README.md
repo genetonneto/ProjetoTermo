@@ -1,38 +1,67 @@
-# create-svelte
+# Projeto de Conclusão - Termo
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Este é o projeto de conclusão da disciplina de Programação Imperativa do Professor Allan Diego Silva Lima do IFPE Campus Igarassu, desenvolvido por Jadson Andreys, Paulo Cabral, Matheus de Oliveira e Matheus Wenceslau. O projeto consiste em o jogo termo, implementado utilizando as tecnologias Svelte, HTML5 e CSS3. 
 
-## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Funcionalidades
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+O jogo possui três Páginas principais:
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### 1. Página "Jogar"
 
-## Developing
+Nesta página, o jogador pode Jogar. O objetivo é descobrir a palavra correta usando dicas fornecidas pelos resultados de suas tentativas anteriores, Descubra a palavra certa em 6 tentativas
+ Depois de cada tentativa, as peças mostram o quão perto você está da solução.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### 2. Página "Como Jogar"
 
-```bash
-npm run dev
+Nesta página, o jogador pode obter informações sobre como jogar o Termo. São fornecidas instruções detalhadas sobre as regras do jogo.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### 3. Página "Sobre"
 
-## Building
+Nesta página, são apresentadas informações sobre o projeto e seus desenvolvedores e os monitores. E um pouco oo porque o projeto foi construido
 
-To create a production version of your app:
+## Tecnologias Utilizadas
 
-```bash
-npm run build
-```
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-You can preview the production build with `npm run preview`.
+- Svelte: um framework JavaScript para a construção de interfaces de usuário reativas.
+- HTML5: a linguagem de marcação padrão para a criação de páginas web.
+- CSS3: a linguagem de estilos utilizada para a estilização das páginas web.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+## Como Executar 
+
+Para executar o projeto em sua máquina local, siga as instruções abaixo:
+
+1. Certifique-se de ter o Node.js instalado em seu computador. Caso não o tenha, faça o download e a instalação a partir do site oficial do Node.js (https://nodejs.org).
+2. Clone o repositório do projeto para o seu computador.
+3. Abra o terminal ou prompt de comando e navegue até o diretório do projeto.
+4. Execute o seguinte comando para instalar as dependências do projeto:
+   ```
+   npm install
+   ```
+5. Após a conclusão da instalação das dependências, execute o seguinte comando para iniciar o servidor de desenvolvimento:
+   ```
+   npm run dev
+   ```
+6. O servidor será iniciado e o jogo de caça palavras estará acessível em seu navegador através do endereço `http://localhost:5173`.
+
+## Conclusão
+
+Este Projeto foi desenvolvido no intuito de aplicar os conhecimentos adquiridos na disciplina de Programação Imperativa do Curso TSI 1º Período. O jogo Termo foi desenvolvido utilizando as tecnologias falada logo acima, oferecendo uma experiência interativa e divertida para os Jogadores.
+
+Esperamos que você se divirta jogando o Termo.
+
+### Equipe de Desenvolvimento:
+
+<li>Jadson Andreys</li> 
+<li>Matheus de Oliveira</li> 
+<li>Matheus Wenceslaun</li>
+<li>Paulo Cabral</li>
+
+
+### Monitores
+
+<li>Geneton Neto</li>
+<li>Luiz Carlos</li>
+
