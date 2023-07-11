@@ -18,7 +18,7 @@ Nesta página, o jogador pode obter informações sobre como jogar o Termo. São
 
 ### 3. Página "Sobre"
 
-Nesta página, são apresentadas informações sobre o projeto e seus desenvolvedores e os monitores. E um pouco oo porque o projeto foi construido
+Nesta página, são apresentadas informações sobre o projeto e seus desenvolvedores e os monitores. E um pouco do porque o projeto foi construido
 
 ## Tecnologias Utilizadas
 
