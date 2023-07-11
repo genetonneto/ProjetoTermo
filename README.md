@@ -60,7 +60,7 @@ Esperamos que você se divirta jogando o Termo.
 
 <li>Jadson Andreys</li> 
 <li>Matheus de Oliveira</li> 
-<li>Matheus Wenceslaun</li>
+<li>Matheus Wenceslau</li>
 <li>Paulo Cabral</li>
 
 
