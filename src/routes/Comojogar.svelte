@@ -82,16 +82,13 @@ body {
 	padding: 0;
     background-color: #0F1A1D;
 }
-.conteudo{
-	font-family: 'Angel Club', sans-serif;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+.conteudo {
+    font-family: 'Angel Club', sans-serif;
     text-align: center;
-	height: 80vh;
-	color : #E4FAF8;
-	font-size: 25px;
+    display: block;
+    font-size: 25px;
+    color: white;
+
 }
 button {
 	font-family: 'Angel Club', sans-serif;
