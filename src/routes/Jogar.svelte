@@ -28,7 +28,7 @@ display: flex;
 
 body {
 	font-family: 'Angel Club', sans-serif;
-	background-color: #0F1A1D;;
+	background-color: #0F1A1D;
 
 }
 button {
