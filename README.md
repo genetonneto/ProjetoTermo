@@ -6,23 +6,29 @@
 
 Este é o projeto de conclusão da disciplina de Programação Imperativa do Professor Allan Diego Silva Lima do IFPE Campus Igarassu, desenvolvido por Jadson Andreys, Paulo Cabral, Matheus de Oliveira e Matheus Wenceslau. O projeto consiste em o jogo termo, implementado utilizando as tecnologias Svelte, HTML5 e CSS3. 
 
+# MENU
+![Capturar](https://github.com/pauloJ-r/ProjetoTermo/assets/62119732/ac797835-ddae-41b0-a7e7-875bf220c269)
 
 ## Funcionalidades
+
 
 O jogo possui três Páginas principais:
 
 ### 1. Página "Jogar"
+![01](https://github.com/pauloJ-r/ProjetoTermo/assets/62119732/7118d5b2-fa90-4a11-acd2-6ef7f74be262)
 
 Nesta página, o jogador pode Jogar. O objetivo é descobrir a palavra correta usando dicas fornecidas pelos resultados de suas tentativas anteriores, Descubra a palavra certa em 6 tentativas
  Depois de cada tentativa, as peças mostram o quão perto você está da solução.
 
 ### 2. Página "Como Jogar"
+![02](https://github.com/pauloJ-r/ProjetoTermo/assets/62119732/a9929b08-764e-430f-9020-03600d462271)
 
 Nesta página, o jogador pode obter informações sobre como jogar o Termo. São fornecidas instruções detalhadas sobre as regras do jogo.
 
 ### 3. Página "Sobre"
+![03](https://github.com/pauloJ-r/ProjetoTermo/assets/62119732/95b2c4a0-a098-4c80-a878-f11936bdfecf)
 
-Nesta página, são apresentadas informações sobre o projeto e seus desenvolvedores e os monitores. E um pouco do porque o projeto foi construido
+Nesta página, são apresentadas informações sobre o projeto e seus desenvolvedores e os monitores. E um pouco do porque o projeto foi construido.
 
 ## Tecnologias Utilizadas
 
