@@ -72,7 +72,5 @@ Esperamos que você se divirta jogando o Termo.
 
 ### Monitores
 
-<li>Geneton Neto</li>
+<li><a href="https://github.com/genetonneto">Geneton Neto</a></li>
 <li>Luiz Carlos</li>
-
-
