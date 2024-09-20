@@ -5,7 +5,7 @@
 
     const row1 = ['q','w','e','r','t','y','u','i','o','p'];
     const row2 = ['a','s','d','f','g','h','j','k','l'];
-    const row3 = ["ENTER",'z','x','c','v','b','n','m',"DEL"];
+    const row3 = ["DEL",'z','x','c','v','b','n','m',"ENTER"];
 
 
     const handleDel= () =>{
